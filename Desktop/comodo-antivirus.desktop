@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=COMODO Antivirus
+GenericName=Antivirus
+Comment=COMODO Antivirus for Linux
+Exec=/opt/COMODO/cav
+Icon=/opt/COMODO/menu/comodo-antivirus-64.png
+Terminal=false
+Type=Application
+Categories=COMODO;
